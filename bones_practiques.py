@@ -6,8 +6,8 @@ Donats dos nombres enters, el programa retorna la divisió, el quocient i el res
 '''
 Dividend = int(input("Ingresar dividend: "))
 Divisor = int(input("Ingresar divisor: "))
-Quocient = (Dividend)//(Divisor)
-Residu = (Dividend)%(Divisor)
+Quocient = (Dividend) // (Divisor)
+Residu = (Dividend) % (Divisor)
 print(f"Divisió: {Dividend}/{Divisor}")
 print(f"Quocient: {Quocient}")
 print(f"Residu: {Residu}")
