@@ -1,8 +1,11 @@
 #!/usr/bin/env python
-'''Divisió. Programa que fá una divisio i torna els valors en un format concret.
+'''Divisió. Programa que fá una divisio i torna els valors en un format
+ concret.
+
 Institut Icària
 Programació - 1r Batxillerat - Curs 2025-26
-Donats dos nombres enters, el programa retorna la divisió, el quocient enter i el residu en un format molt especific.
+Donats dos nombres enters, el programa retorna la divisió, el quocient enter
+i el residu en un format molt especific.
 '''
 __author__ = "Iván Chavez Reggio"
 __email__ = "Ichavez@gmail.com"
